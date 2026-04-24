@@ -1,2 +1,4 @@
 # pitch-er_perfect_2.0
-A pitching competition with auction facilities. Making the front-end look good and also making space for the bankend connection
+
+A pitching competition web app with team login, domain selection, bidding flow, and an admin dashboard backed by Firebase Authentication and Firestore.
+
